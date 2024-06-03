@@ -1,1 +1,1 @@
-
+Train on a dataset of existing images to learn how to create new ones. GANs use two neural networks, one to generate new images and the other to distinguish between real and fake images.
