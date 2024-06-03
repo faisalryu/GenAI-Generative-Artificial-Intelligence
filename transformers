@@ -1,0 +1,1 @@
+Use sequences instead of individual data points to transform input into output, making them more efficient at processing data when context is important.
